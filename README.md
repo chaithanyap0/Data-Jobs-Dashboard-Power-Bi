@@ -25,12 +25,13 @@ This report is split into two distinct pages to provide both a high-level summar
 
 # Page 1: High-Level Market View
 
-(/<img width="1253" height="698" alt="Dashboard 1" src="https://github.com/user-attachments/assets/939a5377-1465-4c4a-8a89-dbf45de15f50" />
-
+<img width="1253" height="698" alt="Dashboard 1" src="https://github.com/user-attachments/assets/939a5377-1465-4c4a-8a89-dbf45de15f50" />
 
 It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 # Page 2: Job Title Drill Through
+
+<img width="1255" height="707" alt="Second dashboard" src="https://github.com/user-attachments/assets/5808ca4c-4763-4a18-805a-43720dfc1415" />
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
