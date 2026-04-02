@@ -25,6 +25,9 @@ This report is split into two distinct pages to provide both a high-level summar
 
 # Page 1: High-Level Market View
 
+![Dashboard Screenshot](/<img width="1253" height="698" alt="Dashboard 1" src="https://github.com/user-attachments/assets/939a5377-1465-4c4a-8a89-dbf45de15f50" />
+)
+
 It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 # Page 2: Job Title Drill Through
