@@ -38,3 +38,35 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 # Conclusion
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+
+## Data Jobs Dashboard 2.0 (Power Query Enhanced)
+
+This is an upgraded version of my Data Jobs Dashboard built using Power BI, with advanced data transformation using Power Query.
+
+### Key Improvements:
+
+* Data cleaning and transformation using Power Query
+* Optimized data model (fact + dimension tables)
+* Improved performance and relationships
+* Enhanced visuals and KPIs
+
+### Features:
+
+* Job count, median salary insights
+* Skill demand analysis (Python, SQL, AWS, etc.)
+* Top-paying job roles comparison
+* Interactive slicers (Job Title, Country)
+
+
+### 📸 Dashboard Preview:
+
+<img width="1300" height="723" alt="Data Dashboard 2 0" src="https://github.com/user-attachments/assets/a9c21fe9-c4aa-45c6-b0bb-e2b853790c9a" />
+
+
+### 🛠 Tools Used:
+
+* Power BI
+* Power Query
+* Data Modeling (Star Schema)
+
+
